@@ -1,0 +1,51 @@
+
+body {
+
+  color: "#484848";
+	background-color: #ffffff;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: lighter;;
+	margin: 15px 15%;
+
+}
+
+h1 {
+
+  font-size: 2em;
+}
+
+h2 {
+
+  font-size: 1.7em;
+}
+
+p {
+
+  font-size: 16px;
+}
+
+ul {
+
+  list-style: none;
+  margin-left: -40px;
+}
+
+ul li {
+
+  margin-bottom: 25px;
+}
+.bottom {
+  background-color: "red";
+  border-top: 2px solid "#484848";
+
+}
+
+#download {
+  padding-left: 5px;
+  font-size: 14px;
+}
+
+footer {
+
+  margin-top: 200px;
+}

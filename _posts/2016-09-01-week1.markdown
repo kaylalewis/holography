@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Getting Started"
+date:   2016-09-01
+---
+**9/1**
+<br>
+Class Intro: Go over the course agenda, projects, and syllabus
+<br>
+Shoot monochromatic transmission hologram as a class

@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="home">
+<h1>Beginning Holography</h1>
+<p>6:00-9:00pm Tuesday and Thursday<br>Maclean 426</p>
+<h4>"In this introduction to the theory, tools, and techniques of three-dimensional imaging, students study the structure of light and the ways in which it can convey information, and familiarize themselves with the basic tool of holography, the laser. Students make several different styles of holograms, some viewable in laser light, and some in white light. Techniques involving spatial juxtaposition and montage are also explored. The focus is on developing a working knowledge of the medium from the perspective of its artistic possibilities."</h4>
+
+<h2>Syllabus<span id="download"><a href="#">(Download PDF)</a></span></h2>
+<br>
+  <ul class="post-list">
+    {% for post in site.posts reversed %}
+      <li>
+        <h4>{{ post.title }}</a></h4>
+
+        <p>{{ post.content }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+<!--
+  <ul class="post-list">
+    {% for post in site.posts reversed %}
+      <li>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <p>{{ post.content }}</p>
+      </li>
+    {% endfor %}
+  </ul> -->
+
+
+
+
+</div>
