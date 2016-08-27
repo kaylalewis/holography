@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Resources
-permalink: /about/
+permalink: /resources/
 ---

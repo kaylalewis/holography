@@ -1,11 +1,12 @@
 
 body {
 
-  color: "#484848";
+  color: #484848;
 	background-color: #ffffff;
 	font-family: 'Oxygen', sans-serif;
-	font-weight: lighter;;
-	margin: 15px 15%;
+	font-weight: lighter;
+	margin: 15px 5%;
+  font-size: 16px;
 
 }
 
@@ -17,6 +18,11 @@ h1 {
 h2 {
 
   font-size: 1.7em;
+}
+
+h3 {
+
+  font-size: 18px;
 }
 
 p {
@@ -38,6 +44,23 @@ ul li {
   background-color: "red";
   border-top: 2px solid "#484848";
 
+}
+
+a {
+
+  font-weight: normal;
+}
+
+
+a.site-title {
+
+  font-size: 24px;
+  color: #484848
+}
+
+a.page-link {
+
+  margin-right: 20px
 }
 
 #download {
