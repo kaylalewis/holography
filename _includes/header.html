@@ -1,20 +1,18 @@
-<header class="site-header">
+<header>
 
-  <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <p>6:00-9:00pm Tuesday and Thursday<br>Maclean 426</p>
 
-    <nav class="site-nav">
+    <br><br>
 
-      <div class="trigger">
+      <div>
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
-    </nav>
 
-  </div>
 
 </header>
