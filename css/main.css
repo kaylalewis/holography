@@ -2,7 +2,7 @@
 body {
 
   color: #484848;
-	background-color: #ffffff;
+	background-color: #f6f6f6;
 	font-family: 'Oxygen', sans-serif;
 	font-weight: lighter;
 	margin: 15px 5%;
@@ -49,6 +49,7 @@ ul li {
 a {
 
   font-weight: normal;
+  color: #ff6666;
 }
 
 
