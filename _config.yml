@@ -3,8 +3,8 @@ title: Beginning Holography
 email: klewis6@saic.edu
 description: > # this means to ignore newlines until "baseurl:"
   Beginning Holography class site for The School of the Art Institute of Chicago.
-# baseurl: "/holography/" # the subpath of your site, e.g. /blog/
-url: "https://kaylalewis.github.io/holography" # the base hostname & protocol for your site
+baseurl: "/holography" # the subpath of your site, e.g. /blog/
+url: "https://kaylalewis.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
