@@ -5,7 +5,6 @@ date:   2016-09-06
 ---
 
 ### Monochromatic Transmission Hologram
-<img src="../uploads/trans.tif"></img>
 
 * Viewed by shining laser light behind the hologram at same angle as when hologram was shot
 
