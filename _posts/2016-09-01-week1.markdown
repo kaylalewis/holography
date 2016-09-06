@@ -1,10 +1,28 @@
 ---
 layout: post
-title:  "Getting Started"
-date:   2016-09-01
+title:  "Monochromatic Transmission"
+date:   2016-09-06
 ---
-**9/1**
-<br>
-Class Intro: Go over the course agenda, projects, and syllabus
-<br>
-Shoot monochromatic transmission hologram as a class
+
+### Monochromatic Transmission Hologram
+<img src="../uploads/trans.tif"></img>
+
+* Viewed by shining laser light behind the hologram at same angle as when hologram was shot
+
+* Use objects that are metallic (but not intensely reflective), white, or red for a hologram with a strong image. Dull blue and green objects will absorb the red light and not reflect it, which will make a weak hologram.
+
+* Exposure time: 10-15 minutes.
+
+* If the hologram doesn't turn out check your object first to make sure it meets the standards above.
+
+Check the laser positioning to make sure it covers both the object and the plate.
+
+Expose it for longer. Litiholo film is durable and hard to overexpose.
+
+Make sure there is no motion from air vents, speaking, walking, or bumping the table.
+
+* If the hologram still is unclear, move the laser closer to the object.
+
+
+
+[Old School, super helpful intro to holograms (1972)](https://www.youtube.com/watch?v=tjWznlGst9M)
