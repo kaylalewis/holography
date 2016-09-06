@@ -30,6 +30,6 @@ Holography has very strict rules for shooting an “ideal” hologram. But art g
 Holographic printing allows for quick outsourcing of holograms and full use of 3d modeling and frames. The class will come up with a theme to cover, and each student will contribute a model to a class hologram that will be displayed on the ATS floor.
 
 
-###Project 5: Tell a story
+### Project 5: Tell a story
 
 Students will focus on the use of holograms to tell a story. Using either analog or digital means, the final presentation must demonstrate an understanding of holographic techniques and create an optimal viewing environment for the story to unfold.
