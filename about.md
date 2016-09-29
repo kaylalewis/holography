@@ -9,6 +9,17 @@ permalink: /resources/
 [Old School, super helpful intro to holograms (1972)](https://www.youtube.com/watch?v=tjWznlGst9M)
 
 
+## Inspiration
+
+[Magic Leap](https://www.magicleap.com/#/home)
+
+[4-D Buildings](https://www.fastcompany.com/3006145/mits-new-self-assembly-lab-building-paradigm-shift-4-d-manufacturing)
+
+[Lumii](http://www.lumiidisplay.com/#homesub)
+
+["What Is a Light Field Camera and What Isn't?"](http://uploadvr.com/light-fields-are-dead-long-live-holography/)
+
+
 ### Artists
 
 [Dali Alice Cooper Hologram](https://www.youtube.com/watch?v=gVhi7gi7_OA)
