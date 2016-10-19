@@ -4,6 +4,10 @@ title: Resources
 permalink: /resources/
 ---
 
+### Relevant Events
+[Storytelling in VR](https://www.eventbrite.com/e/storytelling-in-virtual-reality-with-vr-producer-angela-haddad-tickets-28571037743)
+
+
 ### About Holography
 
 [Old School, super helpful intro to holograms (1972)](https://www.youtube.com/watch?v=tjWznlGst9M)
